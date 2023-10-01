@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.game_cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 18rem));
+    gap:2rem;
+    justify-content: center;
+}
