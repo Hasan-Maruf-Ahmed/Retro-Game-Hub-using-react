@@ -1,0 +1,11 @@
+.wrapper {
+    font-family: 'Pixelify Sans', cursive;
+    text-align: center;
+    /* background-color: black; */
+    color: white;
+    height: 100vh;
+    padding: 20px;
+    background-image: url("../../../../assets/bg.png");
+    background-size: cover;
+    overflow: hidden;
+}
