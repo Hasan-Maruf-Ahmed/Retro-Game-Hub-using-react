@@ -1,4 +1,3 @@
-import React from 'react'
 import "./styles/tetrispage.css"
 import Game from './gameComponents/Game'
 
