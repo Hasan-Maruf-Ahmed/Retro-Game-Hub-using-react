@@ -3,7 +3,7 @@
     width: 15vw;
     list-style-type: none;
     color: rgba(255, 255, 255, 0.5);
-    border: 1px solid red;
+    /* border: 1px solid red; */
   }
   
   .GameStats__left {
